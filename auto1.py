@@ -2,7 +2,8 @@ from os import path
 from pywinauto.application import Application
 import time
 #import pywhatkit
-
+#nyoba fdfdf
+#persib bandung
 
 #kirim_wa.start_server()
 
